@@ -1,0 +1,51 @@
+.je-logo {
+    width: 200px !important;
+    /* height: 50px; */
+}
+
+.countUpSection.countUpVerTwo {
+    background-image: url(../img/JE/banner/je_banner_1.png);
+    padding: 60px 0;
+}
+
+.je-alaba-market-client{
+	width: 200px !important;
+	
+}
+
+.je-blue-color{
+	color: #5bafdf !important;
+}
+
+.page-header h2 {
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: 0;
+    color: #5bafdf !important;
+}
+
+.light-grey-text{
+    
+    color: grey !important;
+}
+
+.je-dark-blue-color {
+    color: #3b5e7d !important;
+}
+
+.font-80{
+    font-size: 60px;
+}
+
+.je-red-color{
+    color: red;
+}
+
+.audio-wide-font{
+    font-family: 'Audiowide', cursive;
+}
+
+.comfortaa-font{
+    font-family: 'Comfortaa', cursive;
+}
