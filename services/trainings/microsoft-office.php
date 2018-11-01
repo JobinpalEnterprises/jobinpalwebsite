@@ -52,7 +52,7 @@
         <br>
         <h4 class="je-blue-color comfortaa-font">TRAINING FEE: N30,000</h4>
         <br>
-        <h4 class="je-blue-color comfortaa-font">TRAINING DURATION: 1 Month (From November 15 - Feburary 15 2019)</h4>
+        <h4 class="je-blue-color comfortaa-font">TRAINING DURATION: 1 Month (From November 15 - December 15 2018)</h4>
         <br>
         <h4 class="je-blue-color comfortaa-font">LOCATION: Borno Library Jakande, Amuwo Odofin, MIle 2 Lagos.</h4>
         <br>
